@@ -14,7 +14,7 @@ The various feeds of earthquakes can be found [here.](http://earthquake.usgs.gov
 Open your virtual machine and log in. 
 Then execute the following commands:
 ```sh
-git clone https:github.com/tandrasfay/Group-3-Recent-Quakes
+git clone https://github.com/tandrasfay/Group-3-Recent-Quakes
 cd Group-3-Recent-Quakes
 ```
 ```sh
